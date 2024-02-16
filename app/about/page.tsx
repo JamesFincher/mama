@@ -192,7 +192,7 @@ export default function Example() {
                     We’re changing the way people connect.
                   </h1>
                   <p className="relative mt-6 text-lg leading-8 text-gray-600 sm:max-w-md lg:max-w-none">
-                    At Mama Dees, we believe in responsible, ethical breeding
+                    At Mama D's, we believe in responsible, ethical breeding
                     practices that put the wellbeing of our reptiles first. We
                     keep our collection numbers small, allowing us to give each
                     reptile individualized care and attention. Our geckos and
@@ -263,7 +263,7 @@ export default function Example() {
             <div className="mt-6 flex flex-col gap-x-8 gap-y-20 lg:flex-row">
               <div className="lg:w-full lg:max-w-2xl lg:flex-auto">
                 <p className="text-xl leading-8 text-gray-600">
-                  At Mama Dees, we specialize in breeding healthy, vibrant
+                  At Mama D's, we specialize in breeding healthy, vibrant
                   crested geckos, gargoyle geckos, and isopods through
                   responsible, sustainable practices that prioritize the
                   wellbeing of our reptiles and invertebrates. We maintain small
@@ -281,7 +281,7 @@ export default function Example() {
                     home, you can trust it has been well cared for.
                   </p>
                   <p className="mt-10">
-                    At Mama Dees, we believe in responsible, ethical breeding
+                    At Mama D's, we believe in responsible, ethical breeding
                     practices that put the wellbeing of our reptiles first. We
                     keep our collection numbers small, allowing us to give each
                     reptile individualized care and attention. Our geckos and

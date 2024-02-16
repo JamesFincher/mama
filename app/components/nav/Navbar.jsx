@@ -15,7 +15,7 @@ function classNames(...classes) {
 }
 
 export default function Navbar() {
-  const [activeLink, setActiveLink] = useState("Mama Dees Home");
+  const [activeLink, setActiveLink] = useState("Mama D's Home");
 
   const navClickHandler = (e) => {
     setActiveLink(e.target.innerText);
@@ -44,13 +44,13 @@ export default function Navbar() {
                   <Link
                     href="/"
                     className={
-                      activeLink === "Mama Dees Home"
+                      activeLink === "Mama D's Home"
                         ? activeLinkClass
                         : inactiveLinkClass
                     }
                     onClick={navClickHandler}
                   >
-                    Mama Dees Home
+                    Mama D's Home
                   </Link>
                   <Link
                     href="/inventory"
