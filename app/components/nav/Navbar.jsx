@@ -205,31 +205,31 @@ export default function Navbar() {
               {/* Current: "bg-indigo-50 border-indigo-500 text-indigo-700", Default: "border-transparent text-gray-600 hover:bg-gray-50 hover:border-gray-300 hover:text-gray-800" */}
               <Disclosure.Button
                 as="a"
-                href="#"
+                href="/"
                 className="block border-l-4 border-indigo-500 bg-indigo-50 py-2 pl-3 pr-4 text-base font-medium text-indigo-700"
               >
                 Dashboard
               </Disclosure.Button>
               <Disclosure.Button
                 as="a"
-                href="#"
+                href="/inventory"
                 className="block border-l-4 border-transparent py-2 pl-3 pr-4 text-base font-medium text-gray-600 hover:border-gray-300 hover:bg-gray-50 hover:text-gray-800"
               >
-                Team
+                Current Inventory
               </Disclosure.Button>
               <Disclosure.Button
                 as="a"
-                href="#"
+                href="/care"
                 className="block border-l-4 border-transparent py-2 pl-3 pr-4 text-base font-medium text-gray-600 hover:border-gray-300 hover:bg-gray-50 hover:text-gray-800"
               >
-                Projects
+                Pet Care
               </Disclosure.Button>
               <Disclosure.Button
                 as="a"
-                href="#"
+                href="/about"
                 className="block border-l-4 border-transparent py-2 pl-3 pr-4 text-base font-medium text-gray-600 hover:border-gray-300 hover:bg-gray-50 hover:text-gray-800"
               >
-                Calendar
+                About Us
               </Disclosure.Button>
             </div>
             <div className="border-t border-gray-200 pb-3 pt-4">
